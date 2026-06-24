@@ -337,23 +337,6 @@ Generate Final Clinical Report
 - Jupyter Notebook
 - Key packages: pandas, numpy, scikit-learn, matplotlib, seaborn, xgboost
 
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/kartik2002-sp/Cancer_Predictive_Analysis-.git
-   cd Cancer_Predictive_Analysis-
-   ```
-
-2. **Install dependencies**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Launch Jupyter**
-   ```bash
-   jupyter notebook
-   ```
 
 4. **Execute notebooks in sequence** (01 → 08)
 
